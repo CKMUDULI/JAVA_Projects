@@ -1,5 +1,3 @@
-package RegestrationForm.calculator;
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
